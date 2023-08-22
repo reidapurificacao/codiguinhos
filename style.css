@@ -1,0 +1,9 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+background-image: url(img/skullgirls_filia_story_prepatch.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
